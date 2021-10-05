@@ -2,6 +2,7 @@ preprocessedData/
 originalData/
 .ipynb_checkpoints/
 Useless/
+models/
 *.csv
 
 # Byte-compiled / optimized / DLL files
